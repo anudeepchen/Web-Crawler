@@ -1,0 +1,5 @@
+Given a URL, get the hyperlinks in the corresponding page
+Given a URL, get the most relevant hyperlinks
+Given a URL, get the top 5 relevant words in this page
+Given a URL and a word, get the relevance score of this word in this page
+
